@@ -1,6 +1,6 @@
 const password = '123Password';
 while (true) {
-    console.log(password)
+    console.log('heey')
 }
 
 console.log('line 6');
